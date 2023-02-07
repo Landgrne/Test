@@ -90,3 +90,5 @@ write.csv(Mberg_2018, file ="Data/Climate/Mberg_2018.csv", quote=TRUE, sep=";", 
 write.csv(Mberg_2019, file ="Data/Climate/Mberg_2019.csv", quote=TRUE, sep=";", dec=".", na="NA")
 write.csv(Mberg_2020, file ="Data/Climate/Mberg_2020.csv", quote=TRUE, sep=";", dec=".", na="NA")
 
+#This is a small change :)
+
